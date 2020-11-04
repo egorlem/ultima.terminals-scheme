@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- guezwhoz-scheme for iTerm2 v1.0.0
-#
-# https://github.com/guesswhozzz/guezwhoz-iterm2-theme
-#
-# Code licensed under the MIT license
-#
-# @author Egor Lem <guezwhoz@gmail.com>
--->
-
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -160,13 +150,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.818572998046875</real>
+		<real>0.81176471710205078</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.50859791040420532</real>
+		<real>0.54117649793624878</real>
 		<key>Red Component</key>
-		<real>0.51675516366958618</real>
+		<real>0.54117649793624878</real>
 	</dict>
 	<key>Ansi 6 Color</key>
 	<dict>
