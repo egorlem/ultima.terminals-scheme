@@ -1,0 +1,9 @@
+xrdb        
+termite             
+freebsd_vt          
+hexchat             
+iterm-dynamic-colors            
+remmina  
+royalts   
+vhs                 
+vscode  

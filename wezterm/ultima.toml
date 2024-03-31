@@ -1,0 +1,12 @@
+# ultima
+[colors]
+foreground = "#d0d0d0"
+background = "#1c1c1c"
+cursor_bg = "#87d7af"
+cursor_border = "#87d7af"
+cursor_fg = "#1c1c1c"
+selection_bg = "#005f5f"
+selection_fg = "#60d7d7"
+
+ansi = ["#080808","#ff5f5f","#87d7af","#d7d787","#5fafd7","#afafff","#5fd7d7","#dadada"]
+brights = ["#8a8a8a","#d75f5f","#afd7af","#d7d7af","#87afd7","#afafd7","#87d7d7","#dadada"]

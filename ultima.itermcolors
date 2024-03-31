@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	ultima dark color schema for iTerm2
+	Egor Lem https://egorlem.com/ 
+	https://github.com/egorlem/ultima.terminal-theme
+-->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -254,39 +259,39 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.68627452850341797</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.84313726425170898</real>
 		<key>Red Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.52941179275512695</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>0.97647058963775635</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>0.97647058963775635</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>0.97647058963775635</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.10980392247438431</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.10980392247438431</real>
 		<key>Red Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.10980392247438431</real>
 	</dict>
 	<key>Foreground Color</key>
 	<dict>
@@ -319,13 +324,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.84313726425170898</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.84313726425170898</real>
 		<key>Red Component</key>
-		<real>0.93333333730697632</real>
+		<real>0.37647059559822083</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
@@ -358,13 +363,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.1969468742609024</real>
+		<real>0.0</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.1969468742609024</real>
+		<real>0.0</real>
 		<key>Red Component</key>
-		<real>0.469451904296875</real>
+		<real>0.132110595703125</real>
 	</dict>
 </dict>
 </plist>
