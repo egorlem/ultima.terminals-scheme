@@ -1,8 +1,8 @@
 # ultima color schema for terminal emulators
 
-[Xresources](https://wiki.archlinux.org/title/X_resources)
-[alacritty](https://alacritty.org/)              
-[electerm](https://github.com/electerm/electerm)
+[Xresources](https://wiki.archlinux.org/title/X_resources)             
+[alacritty](https://alacritty.org/)             
+[electerm](https://github.com/electerm/electerm)             
 [ghostty](https://mitchellh.com/ghostty)             
 [kitty](https://en.wikipedia.org/wiki/Kitty_(terminal_emulator))               
 [konsole](https://ru.wikipedia.org/wiki/Konsole)             
