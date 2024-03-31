@@ -1,4 +1,6 @@
-# ultima color schema for terminal emulators
+# ultima.terminals-scheme — color scheme for all the most popular terminal emulators
+
+## **Supported terminals**
 
 [Xresources](https://wiki.archlinux.org/title/X_resources)             
 [alacritty](https://alacritty.org/)             
