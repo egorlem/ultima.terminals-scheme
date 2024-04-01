@@ -1,33 +1,37 @@
-# Colors (ultima)
+
+# ultima dark color schema for alacritty
+# Egor Lem https://egorlem.com/ 
+# https://github.com/egorlem/ultima.terminal-theme
+
 
 [colors.bright]
-black = '#8a8a8a'
-blue = '#87afd7'
-cyan = '#87d7d7'
-green = '#afd7af'
-magenta = '#afafd7'
-red = '#d75f5f'
-white = '#dadada'
-yellow = '#d7d7af'
+  black = '#8a8a8a'
+  blue = '#87afd7'
+  cyan = '#87d7d7'
+  green = '#afd7af'
+  magenta = '#afafd7'
+  red = '#d75f5f'
+  white = '#dadada'
+  yellow = '#d7d7af'
 
 [colors.cursor]
-cursor = '#87d7af'
-text = '#1c1c1c'
+  cursor = '#87d7af'
+  text = '#1c1c1c'
 
 [colors.normal]
-black = '#080808'
-blue = '#5fafd7'
-cyan = '#5fd7d7'
-green = '#87d7af'
-magenta = '#afafff'
-red = '#ff5f5f'
-white = '#dadada'
-yellow = '#d7d787'
+  black = '#080808'
+  blue = '#5fafd7'
+  cyan = '#5fd7d7'
+  green = '#87d7af'
+  magenta = '#afafff'
+  red = '#ff5f5f'
+  white = '#dadada'
+  yellow = '#d7d787'
 
 [colors.primary]
-background = '#1c1c1c'
-foreground = '#d0d0d0'
+  background = '#1c1c1c'
+  foreground = '#d0d0d0'
 
 [colors.selection]
-background = '#005f5f'
-text = '#60d7d7'
+  background = '#005f5f'
+  text = '#60d7d7'
